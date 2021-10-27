@@ -2,5 +2,9 @@
   "name": "02-Weather",
   "version": "1.0.0",
   "main": "lib/app.js",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "webpack-dev-server": "^4.3.1"
+  }
 }
